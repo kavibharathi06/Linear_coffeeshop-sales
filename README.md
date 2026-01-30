@@ -1,17 +1,17 @@
 ☕ Coffee Shop Daily Revenue Prediction
 📌 Project Overview
 
-    This project focuses on building an end-to-end machine learning solution to predict the daily revenue of a coffee shop using operational and customer-related data. The goal is to help business owners make data-driven decisions by estimating revenue under different scenarios.
+This project focuses on building an end-to-end machine learning solution to predict the daily revenue of a coffee shop using operational and customer-related data. The goal is to help business owners make data-driven decisions by estimating revenue under different scenarios.
 
 🎯 Problem Statement
 
-    Estimating daily revenue can be challenging due to multiple influencing factors such as customer count, marketing spend, operating hours, and foot traffic. This project aims to build a predictive model that accurately estimates Daily Revenue based on historical data.
+Estimating daily revenue can be challenging due to multiple influencing factors such as customer count, marketing spend, operating hours, and foot traffic. This project aims to build a predictive model that accurately estimates Daily Revenue based on historical data.
 
 🧠 Solution Approach
 
-  The project follows a complete machine learning workflow:
+ ~The project follows a complete machine learning workflow:
  
-  Data loading and exploration
+Data loading and exploration
 
   Data preprocessing and feature scaling
 
